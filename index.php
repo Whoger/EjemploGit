@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here cacaca
-        echo " hola mongolin"
+        echo " hola mongolin"   // mongolin tu que no pone el punto y coma
         ?>
     </body>
 </html>
